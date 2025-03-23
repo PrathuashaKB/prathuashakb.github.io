@@ -1,5 +1,38 @@
 title: Prathuasha K B
-#logo: /assets/img/headshot_circle.png
+# logo: /assets/img/headshot_circle.png
 #description: text below image
-#show_downloads: true
+
+description: Aspiring Data Scientist | Focused on ML, Analytics & AI | Intern @ DataMites
+github_username: PrathuashaKB
+# email: prathuasharao2017@gmail.com
 theme: jekyll-theme-minimal
+#logo: assets/img/abbas-blue.png
+
+sidebar:
+  - name: Email
+    icon: fa-regular fa-envelope
+    link: prathuasharao2017@gmail.com
+  # - name: CV
+  #   icon: fa-regular fa-file-pdf
+  #   link: /assets/docs/cv.pdf
+  - name: GitHub
+    icon: fa-brands fa-github
+    link: https://github.com/PrathuashaKB
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin-in
+    link: https://www.linkedin.com/in/prathuasha-k-b-2k2/
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-github-metadata
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
