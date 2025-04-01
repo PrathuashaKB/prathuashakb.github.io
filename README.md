@@ -26,7 +26,7 @@ _DataMites™ | Data Science | (_January 2025 - Present_)_
 ## Projects
 
 ## Publications
-**Maldefender: A Comprehensive Malware Detection System Using Machine Learning and Real-Time Analysis** 
- Disha Bhargavi B. S., H. L. Srilaxmi, Neha Acharya, and Prathuasha K. B \
+**Maldefender: A Comprehensive Malware Detection System Using Machine Learning and Real-Time Analysis** \
+ Disha Bhargavi B. S., H. L. Srilaxmi, Neha Acharya, Prathuasha K. B \
 Int. J.Eng. Manag. Humanit.(IJEMH), vol. 5, no. 4, pp. 12–15, Jul.-Aug. 2024.\
 \[[PDF](https://ijemh.com/issue_dcp/Maldefender%20%20A%20Comprehensive%20Malware%20Detection%20System%20Using%20Machine%20Learning%20and%20Real%20Time%20Analysis.pdf)\] \[[Code]()\]
