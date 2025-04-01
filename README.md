@@ -16,11 +16,13 @@ _DataMites™ | Data Science | (January 2025 - Present)_
  _IBMSkillsbuild| Web Development | (June 2023- August 2023)_                               
 - Trained on Front-End Web Development fundamentals.
 - Contributed to develop a website termed as’JobInternDesk’ aninnovative online job portal in collaboration with team-Desk-Interns.\
+  
 [[CERTIFICATE]](https://drive.google.com/file/d/1mzGniozi3TlECgv3KJhpUd8tKZ_X1uRY/view?usp=drive_link)
 
 **DataTech Intern** \
  _MIT Square| Python | (September 2022- October 2022)_                               
 - Trained in Python concepts and acquired hands-on experience working on Python projects.\
+  
 [[CERTIFICATE]](https://drive.google.com/file/d/1dH-F9JvA-x1s4kWJ1zQbe4XeHlo3Lrxv/view?usp=drive_link)
 
 ## Projects
