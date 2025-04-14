@@ -53,7 +53,7 @@ Developed a speech recognition system using the Wav2Vec 2.0 model by Facebook an
 
 **JobInternDesk**  
 *Internship project with IBM SkillsBuild, June 2023-July 2023.*\
-\[[Code](https://github.com/PrathuashaKB/JobInternDesk)\] \[[Presentation](https://github.com/PrathuashaKB/JobInternDesk/blob/main/JOBINTERNDESK-PPT.pptx)\]\ \[[Website](https://jobinterndesk7internship.on.drv.tw/www.JobInternDesk.com/JobInternDesk%20Website/)\]\
+\[[Code](https://github.com/PrathuashaKB/JobInternDesk)\] \[[Presentation](https://github.com/PrathuashaKB/JobInternDesk/blob/main/JOBINTERNDESK-PPT.pptx)\] \[[Website](https://jobinterndesk7internship.on.drv.tw/www.JobInternDesk.com/JobInternDesk%20Website/)\]\
 Developed a web-based platform, JobInternDesk, to streamline the search for jobs and internships. The system enables users to explore openings, apply online, and interact with a built-in chatbot for instant assistance. Designed with a user-friendly interface, the platform offers a seamless experience for discovering and pursuing career opportunities.\
 ![HTML](https://img.shields.io/badge/-HTML-%23000000?logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/-CSS-%23000000?logo=css3&logoColor=blue)
