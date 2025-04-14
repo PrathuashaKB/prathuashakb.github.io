@@ -61,7 +61,11 @@ Developed a web-based platform, JobInternDesk, to streamline the search for jobs
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23000000?logo=bootstrap&logoColor=violet)
 ![jQuery](https://img.shields.io/badge/-jQuery-%23000000?logo=jquery&logoColor=lightblue)
 
-
+**Short Range Ultrasonic Radar**  
+*A hobby project @ SSIT, November 2021-March 2022.*\
+\[[Code](https://github.com/PrathuashaKB/Short-Range-Ultrasonic-Radar)\] \[[Presentation](https://github.com/PrathuashaKB/Short-Range-Ultrasonic-Radar/blob/main/SRUR%20Presentation.pptx)\]\
+ Designed a short range radar that could be helpful for object avoidance/detection applications by using electromagnetic waves with the help of Arduino UNO and ultrasonic sensor.\
+![Arduino](https://img.shields.io/badge/-Arduino-%23000000?logo=arduino&logoColor=green) 
 
 ### Publications
 **Maldefender: A Comprehensive Malware Detection System Using Machine Learning and Real-Time Analysis** \
