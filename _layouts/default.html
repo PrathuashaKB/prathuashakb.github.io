@@ -21,19 +21,8 @@
         <h1 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-  <img src="{{ site.logo | relative_url }}"
-       alt="Prathuasha K B"
-       align="center"
-       style="
-         margin-left: 2em;
-         margin-bottom: 2em;
-         width: 200px;
-         height: 200px;
-         object-fit: cover;
-         border-radius: 50%;
-       "/>
-{% endif %}
-
+          <img src="{{site.logo | relative_url}}" alt="Prathuasha K B" align="center" style="margin-left: 2em; margin-bottom: 2em; width: 80%; border-radius: 50%;"/>
+        {% endif %}
 
         <p style="text-align:center">{{ site.description | default: site.github.project_tagline }}</p>
 
