@@ -1,29 +1,43 @@
 <!-- ## About me -->
 Data has the power to unlock insights, drive innovation, and shape intelligent solutions—and that’s what fuels my passion for data science and AI.
 
-Hi, I am Prathuasha K B. I hold a Bachelor’s degree in Computer Science and Engineering from [Sri Siddhartha Institute of Technology](https://ssit.edu.in/), Tumakuru, Karnataka (CGPA: 9.47 | German grade: 1.2), completed in July 2024. My academic journey led me to explore predictive modeling, data visualization, and cybersecurity, culminating in my Bachelor’s thesis, [MalDefender — A Comprehensive Malware Detection System Using
-Machine Learning and Real-Time Analysis](https://ijemh.com/issue_dcp/Maldefender%20%20A%20Comprehensive%20Malware%20Detection%20System%20Using%20Machine%20Learning%20and%20Real%20Time%20Analysis.pdf), published in IJEMH under the supervision of [Dr. Renukalatha S](https://scholar.google.co.in/citations?hl=en&user=SULxxEwAAAAJ).
+Hi, I am Prathuasha K B, a Master’s student in Data Science at [TU Dortmund University](https://www.tu-dortmund.de/en/) with a strong academic background in Computer Science and Engineering. I completed my Bachelor’s degree from [Sri Siddhartha Institute of Technology](https://ssit.edu.in/), Tumakuru, Karnataka (CGPA: 9.47 | German grade: 1.2), completed in July 2024. My academic journey led me to explore predictive modeling, data visualization, and cybersecurity, culminating in my Bachelor’s thesis, [MalDefender — A Comprehensive Malware Detection System Using Machine Learning and Real-Time Analysis](https://ijemh.com/issue_dcp/Maldefender%20%20A%20Comprehensive%20Malware%20Detection%20System%20Using%20Machine%20Learning%20and%20Real%20Time%20Analysis.pdf), published in IJEMH under the supervision of [Dr. Renukalatha S](https://scholar.google.co.in/citations?hl=en&user=SULxxEwAAAAJ).
 
-Beyond academics, I have gained hands-on experience through internships at DataMites (Data Science) and IBM SkillsBuild (Web Development), where I worked extensively with Python, SQL, Power BI, Tableau, and Machine Learning to develop real-world applications. With a deep curiosity for AI-driven analytics and intelligent systems, I am eager to apply my skills to global opportunities in data science, where I can contribute to cutting-edge advancements in AI and data-driven decision-making.
+Beyond academics, I have gained hands-on experience through internships at Rubixe - AI Solutions Company (Data Science) and IBM SkillsBuild (Web Development), where I worked extensively with Python, SQL, Power BI, Tableau, and Machine Learning to develop real-world applications. With a deep curiosity for AI-driven analytics and intelligent systems, I am eager to apply my skills to global opportunities in data science, where I can contribute to cutting-edge advancements in AI and data-driven decision-making.
+
+### Research & Applied Interests
+I am interested in **applied machine learning** and **data science** for building robust, interpretable, and data-driven systems that can operate effectively on real-world, noisy, and high-dimensional data. My focus areas include predictive modeling, analytics, causal reasoning, and explainable AI, with an emphasis on translating data into reliable insights that support decision-making. I am particularly drawn to research-driven industry work, where experimental ideas can be validated through real datasets, benchmarks, and end-to-end pipelines, and applied to domains such as cybersecurity, business analytics, and intelligent decision-support systems.
 
 ### Internships
-**Data Science Intern** \
-_DataMites™ | Data Science | (January 2025 - Present)_                               
-- Undergoing training to develop foundational knowledge in data science principles, including data analysis, statistical methods, ML techniques, and data visualization needed to transition into an internship phase.
--  Gaining hands-on experience with industry-standard tools and methodologies.
-
+**Data Science Research Intern (Consultant Role)** \
+_Rubixe - AI Solutions Company | Data Science | (April 2025 - October 2025)_                               
+- Worked on multiple proof-of-concept (POC) and client-driven data science projects, applying statistical analysis, machine learning techniques, and data visualization to address real-world business and research problems.
+-   Conducted exploratory research and experimental evaluation of machine learning models, focusing on research-driven problem formulation, hypothesis testing, and analysis on real-world, large-scale datasets.
+-   Collaborated with project teams and clients to analyze datasets, interpret results, and deliver actionable insights using Python and industry-standard Data Science tools.
+-   Demonstrated consistency, analytical rigor, and independent problem-solving skills while balancing experimentation, validation, and performance evaluation of models.
+[[CERTIFICATE]](https://github.com/PrathuashaKB/prathuashakb.github.io/blob/main/assets/docs/Internship%20Certificate.pdf)
+  
 **Web Development Intern** \
  _IBMSkillsbuild | Web Development | (June 2023-August 2023)_                              
 - Trained on Front-End Web Development fundamentals.
 - Contributed to develop a website termed as 'JobInternDesk' aninnovative online job portal in collaboration with team-Desk-Interns.\
-[[CERTIFICATE]](https://drive.google.com/file/d/1mzGniozi3TlECgv3KJhpUd8tKZ_X1uRY/view?usp=drive_link)
+[[CERTIFICATE]](https://github.com/PrathuashaKB/prathuashakb.github.io/blob/main/assets/docs/IBM%20SkillsBuild%20Certificate.pdf)
 
-**DataTech Intern** \
- _MIT Square | Python | (September 2022-October 2022)_                               
-- Trained in Python concepts and acquired hands-on experience working on Python projects.\
-[[CERTIFICATE]](https://drive.google.com/file/d/1dH-F9JvA-x1s4kWJ1zQbe4XeHlo3Lrxv/view?usp=drive_link)
+### Publications
+**Maldefender: A Comprehensive Malware Detection System Using Machine Learning and Real-Time Analysis** \
+ Disha Bhargavi B. S., H. L. Srilaxmi, Neha Acharya, Prathuasha K. B \
+Int. J.Eng. Manag. Humanit.(IJEMH), vol. 5, no. 4, pp. 12–15, Jul.-Aug. 2024.\
+\[[PDF](https://ijemh.com/issue_dcp/Maldefender%20%20A%20Comprehensive%20Malware%20Detection%20System%20Using%20Machine%20Learning%20and%20Real%20Time%20Analysis.pdf)\] \[[CERTIFICATE](https://github.com/PrathuashaKB/MALDEFENDER-A-Malware-Detection-System/blob/main/Certificat%20of%20Publication.jpg)\]
 
 ### Projects
+**NO-CHURN TELECOM: Customer Churn Prediction**  
+*Industry Project @ Rubixe – AI Solutions Company, September 2025–October 2025*\
+Developed an end-to-end machine learning solution to predict customer churn for a European telecom dataset, enabling data-driven customer retention strategies. The project involved extensive data preprocessing, exploratory data analysis (EDA), feature encoding, and scaling of high-dimensional customer usage data. Addressed class imbalance using SMOTE and trained supervised classification models, including Random Forest and XGBoost, with hyperparameter tuning to improve predictive performance. The final solution emphasized model reliability and business relevance, providing actionable insights to identify high-risk customers in a real-world telecom setting under professional mentorship at Rubixe.
+\
+![XGBoost Badge](https://img.shields.io/badge/-XGBoost-%23000000?logo=xgboost&logoColor=green)
+![Random Forest Badge](https://img.shields.io/badge/-Random%20Forest-%23000000?logo=scikit-learn&logoColor=orange)
+![SMOTE Badge](https://img.shields.io/badge/-SMOTE-%23000000?logo=databricks&logoColor=red)
+
 **Maldefender: A Malware Detection System**  
 *MAJOR-PROJECT @ SSIT, October 2023–July 2024*\
 \[[Paper](https://ijemh.com/issue_dcp/Maldefender%20%20A%20Comprehensive%20Malware%20Detection%20System%20Using%20Machine%20Learning%20and%20Real%20Time%20Analysis.pdf)\] \[[Code](https://github.com/PrathuashaKB/MALDEFENDER-A-Malware-Detection-System)\] \[[Presentation](https://github.com/PrathuashaKB/MALDEFENDER-A-Malware-Detection-System/blob/main/MALDEFENDERppt.pptx)\]\
@@ -67,8 +81,4 @@ Developed a web-based platform, JobInternDesk, to streamline the search for jobs
  Designed a short range radar that could be helpful for object avoidance/detection applications by using electromagnetic waves with the help of Arduino UNO and ultrasonic sensor.\
 ![Arduino](https://img.shields.io/badge/-Arduino-%23000000?logo=arduino&logoColor=green) 
 
-### Publications
-**Maldefender: A Comprehensive Malware Detection System Using Machine Learning and Real-Time Analysis** \
- Disha Bhargavi B. S., H. L. Srilaxmi, Neha Acharya, Prathuasha K. B \
-Int. J.Eng. Manag. Humanit.(IJEMH), vol. 5, no. 4, pp. 12–15, Jul.-Aug. 2024.\
-\[[PDF](https://ijemh.com/issue_dcp/Maldefender%20%20A%20Comprehensive%20Malware%20Detection%20System%20Using%20Machine%20Learning%20and%20Real%20Time%20Analysis.pdf)\] \[[CERTIFICATE](https://github.com/PrathuashaKB/MALDEFENDER-A-Malware-Detection-System/blob/main/Certificat%20of%20Publication.jpg)\]
+
