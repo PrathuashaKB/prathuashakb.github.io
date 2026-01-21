@@ -2,16 +2,16 @@ title: Prathuasha K B
 # logo: /assets/img/headshot_circle.png
 #description: text below image
 
-description: M.Sc. Data Science @ TUD’27</br>Aspiring Data Scientist | Focused on ML, Analytics & AI 
+description: M.Sc. Data Science @ TUD’27
 github_username: PrathuashaKB
-# email: prathuasharao2017@gmail.com
+# email: prathuasha.kandulabindhu@tu-dortmund.de
 theme: jekyll-theme-minimal
 logo: assets/img/pkb.png
 
 sidebar:
   - name: Email
     icon: fa-regular fa-envelope
-    link: prathuasharao2017@gmail.com
+    link: prathuasha.kandulabindhu@tu-dortmund.de
   # - name: CV
   #   icon: fa-regular fa-file-pdf
   #   link: /assets/docs/cv.pdf
